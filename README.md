@@ -27,7 +27,7 @@ Model limitations and sources are also available beside each experiment. Simulat
 
 ## Design and authorship
 
-Original code-drawn traffic diagrams; system fonts, muted greens, ochre vehicle markers, no stock or generated imagery. Developed with AI assistance; not represented as human-only authorship. There are no AI features or external inference services in the site. 
+Original code-drawn traffic diagrams; system fonts, muted greens, ochre vehicle markers, no stock or generated imagery. There are no AI features or external inference services in the site. 
 
 Motion is used for short experiment-title transitions, respecting reduced-motion preferences. The traffic engine itself uses deterministic time integration, not decorative animation. See `vendor` for bundled library and license. No external runtime fetches are required.
 
